@@ -29,9 +29,14 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 2/2       |
+| HTML Semántico             | 1/1       |
+| Funcionalidad              | 1.5/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 5 x 0.8 -> 4.0
+
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-san1tago/assets/50994778/01c9168b-c603-4f43-9406-a81743e07089)
+
 
 ##Link: https://dsaw-2024-1.github.io/parcial-sobre-4-san1tago/ Santiago Soler Prado
